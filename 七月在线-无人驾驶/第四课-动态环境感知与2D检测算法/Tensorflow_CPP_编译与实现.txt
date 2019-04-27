@@ -1,0 +1,10 @@
+https://github.com/andylei77/object-detection/tree/cpp/CPP 
+
+请参考tensorflow_install.md 安装 GPU环境。依赖以下组件：
+- GPU support
+- opencv-3.4.2
+- Bazel
+- Tensorflow
+
+
+也可以根据省略GPU opencv-3.4.2的安装步骤，尝试安装CPU版本(tensorflow编译时需要配置使用CPU)
