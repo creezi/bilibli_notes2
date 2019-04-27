@@ -1,3 +1,4 @@
 /media/catalina/工作/bilibli_notes2/唐宇迪-机器学习算法配套案例实战/*.tar.gz filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
+*.ppt filter=lfs diff=lfs merge=lfs -text
