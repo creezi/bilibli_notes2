@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++11 -g  -rdynamic CMakeFiles/visualizeGeometry.dir/visualizeGeometry.cpp.o  -o visualizeGeometry 
