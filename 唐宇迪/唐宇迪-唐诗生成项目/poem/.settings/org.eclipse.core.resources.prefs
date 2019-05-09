@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/dataset/poems.py=utf-8
+encoding//src/dataset/poems2.py=utf-8
+encoding//src/inference/poems.py=utf-8
+encoding//src/inference/tang_poems.py=utf-8
+encoding//src/main.py=utf-8
+encoding//src/models/model.py=utf-8
+encoding//src/models/model2.py=utf-8
