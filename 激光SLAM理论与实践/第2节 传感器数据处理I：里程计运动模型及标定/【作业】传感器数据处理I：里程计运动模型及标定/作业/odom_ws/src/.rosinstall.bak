@@ -1,3 +1,0 @@
-- git:
-    local-name: mav_trajectory_generation
-    uri: git@github.com:ethz-asl/mav_trajectory_generation.git
