@@ -21,7 +21,9 @@
 
   `https://gitee.com/JokerJohn/pinyougou.git`
 
+  
 
+### 更新日志
 
 201.5.18
 
@@ -32,9 +34,9 @@
 - 删除b站下架的相关课程课件
 - 更新公众号资料说明页
 
-####  
+### 联系我
 
-公众号
+####公众号
 
 ![](README.assets/qrcode_for_gh_5dd42edd05cb_258.jpg)
 
